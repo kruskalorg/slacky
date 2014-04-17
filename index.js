@@ -13,7 +13,7 @@ app.post('/stashmessage', function(req, res) {
 
     slack.send({
         channel: '#deep-thoughts',
-        icon_emoji: ':1up:',
+        icon_emoji: ':beer:',
         text: req.body["stripped-text"],
         username: 'Slacky',
         "mrkdwn": true
