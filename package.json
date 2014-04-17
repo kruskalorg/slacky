@@ -1,0 +1,27 @@
+{
+  "name": "slacky",
+  "version": "0.0.0",
+  "description": "experimental bot for slack integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kruskalorg/slacky"
+  },
+  "keywords": [
+    "slack",
+    "integration",
+    "webhook",
+    "incoming",
+    "slash",
+    "commands"
+  ],
+  "author": "Dan Flettre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kruskalorg/slacky/issues"
+  },
+  "homepage": "https://github.com/kruskalorg/slacky"
+}
